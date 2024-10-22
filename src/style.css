@@ -1,1 +1,23 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.container {
+  border: 1px solid gray;
+}
+
+.error {
+  margin: 3px;
+  font-size: 12px;
+}
+
+.first {
+  background-color: #dcdcdc;
+}
+
+.second {
+  background-color: #dcdcdc;
+
+  text-align: end;
+  display: flex;
+}
+.hidden {
+  display: none;
+}
